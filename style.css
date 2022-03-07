@@ -116,8 +116,7 @@ header {
 
 #menu {
     display: grid;
-    display: grid;
-    grid-template-rows: 18vh 7vh 70vh 5vh;
+    grid-template-rows: 16vh 6vh 91vh 5vh;
 }
 
 #categories {
